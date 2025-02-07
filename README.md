@@ -2,5 +2,5 @@
 ------
 Grupo de prueba cambio en el readme.
 
-Cambio de desarrollador externo JUANITO
+Cambio de desarrollador externo pepito y juanito
 
