@@ -2,3 +2,5 @@
 ------
 Grupo de prueba cambio en el readme.
 
+Cambio de desarrollador externo
+
