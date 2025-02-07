@@ -6,3 +6,6 @@ Cambio de desarrollador externo pepito y juanito
 
 
 completo
+
+
+cambios de tarea 2
